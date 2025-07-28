@@ -15,7 +15,6 @@ The **AI Health Assistant** is an interactive web-based application designed to 
 - **Frontend**: React, HTML, CSS
 - **Backend**: Axios for API calls
 - **AI Integration**: Google Generative Language API (Gemini 1.5 Flash)
-- **Deployment**: TBD
 
 ## How It Works
 1. Users type a health-related question or symptom in the chat input field.
